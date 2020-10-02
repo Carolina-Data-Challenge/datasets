@@ -3,7 +3,7 @@
 - Health and Sciences
 	- 
 	### Air Quality Data
-	See source to filter and download csv of cusomized data: https://openaq.org/#/countries?_k=xqoof4
+	See source to filter and download customized data selections: https://openaq.org/#/countries?_k=xqoof4
 	
 	Included files: 
 	- OpenAQDurham.csv: AQ of surrounding Chapel Hill, NC area between Sep 2019 and Oct 2020
@@ -12,9 +12,20 @@
 - Finance
 	- 
 	### Home Mortgage Disclosure Act Data
+	See source to filter and download csv of customized data selection: https://ffiec.cfpb.gov/data-browser/data/2018?category=nationwide
+	
 - Social Sciences
 	- 
 	### World Economic Outlook Data
+	See source for documentation: https://www.imf.org/external/pubs/ft/weo/data/assump.htm
+	
 - Popular Culture
 	- 
 	### College Football and NFL Data
+	See source to filter and download customized data selections: http://www.repole.com/sun4cast/data.html#dataprior
+	
+	Included files:
+	College Football vs. NFL data
+	- RegSeason: Game outcomes between opponents in the regular season of that year
+	- CumulativeStats: Game statistics including Rushing Yards, Pass Interference, etc. for all games
+	
