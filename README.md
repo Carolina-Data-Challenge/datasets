@@ -9,6 +9,16 @@
 	- OpenAQDurham.csv: AQ of surrounding Chapel Hill, NC area between Sep 2019 and Oct 2020
 	- OpenAQSanFran.csv: AQ of San Francisco from July - September of 2020
 		- Example of a specific filter that could be used to look at air quality in the midst of the California wildfires
+		
+	Air pollutant variables:
+	- BC: Black carbon
+	- CO: Carbon monoxide
+	- O3: Ozone
+	- SO2: Sulfur dioxide
+	- NO2: Nitrogen dioxide
+	- PM2.5: Particulate matter < 2.5 μm
+	- PM10: Particulate matter < 10 μm
+	
 - Finance
 	- 
 	### Home Mortgage Disclosure Act Data
