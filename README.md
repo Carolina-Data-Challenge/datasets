@@ -13,6 +13,7 @@
 	- 
 	### Home Mortgage Disclosure Act Data
 	See source to filter and download csv of customized data selection: https://ffiec.cfpb.gov/data-browser/data/2018?category=nationwide
+	Extra Documentation: https://ffiec.cfpb.gov/documentation/2019/
 	
 - Social Sciences
 	- 
