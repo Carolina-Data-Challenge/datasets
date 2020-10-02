@@ -1,5 +1,7 @@
 # CDC 2020 Datasets
 
+#### You may use any dataset or partial dataset from the resources below and the included files in this repository in your project as your CDC provided data.
+
 - Health and Sciences
 	- 
 	### Air Quality Data
