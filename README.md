@@ -23,8 +23,8 @@
 	
 - Finance
 	- 
-	### Home Mortgage Disclosure Act Data
-	See source to filter and download csv of customized data selection: https://ffiec.cfpb.gov/data-browser/data/2018?category=nationwide
+	### Home Mortgage Disclosure Act Data  
+	See source to filter and download csv of customized data selection: https://ffiec.cfpb.gov/data-browser/data/2018?category=nationwide  
 	Extra Documentation: https://ffiec.cfpb.gov/documentation/2019/
 	
 - Social Sciences
@@ -40,8 +40,7 @@
 	### College Football and NFL Data
 	See source to filter and download customized data selections: http://www.repole.com/sun4cast/data.html#dataprior
 	
-	Included files:
-	College Football vs. NFL data
-	- RegSeason: Game outcomes between opponents in the regular season of that year
-	- CumulativeStats: Game statistics including Rushing Yards, Pass Interference, etc. for all games
+	Included files for NFL and College:
+	- RegSeason: Game outcomes and scores between opponents in the regular season of that year
+	- CumulativeStats: Game statistics including Rushing Yards, Pass Interference, etc. for all games that year
 	
