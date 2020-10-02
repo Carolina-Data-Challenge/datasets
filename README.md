@@ -19,6 +19,9 @@
 	### World Economic Outlook Data
 	See source for documentation: https://www.imf.org/external/pubs/ft/weo/data/assump.htm
 	
+	Included file:
+	- WorldEconomicOutlookData.csv: Shows data of countries' GDP, Inflation, Unemployment rate, and Gov't Spending between 1980 and 2021, including estimates for the more recent years.
+	
 - Popular Culture
 	- 
 	### College Football and NFL Data
